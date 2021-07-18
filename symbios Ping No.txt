@@ -1,0 +1,5 @@
+Jylnf$2016
+ping 223.27.120.38 -t (server)
+router ping 192.168.0.1 -t
+
+https://www.speedtest.net/result/11223512616
